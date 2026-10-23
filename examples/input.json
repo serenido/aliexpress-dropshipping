@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "phone holder"
+  ],
+  "productsPerKeyword": 20,
+  "shipTo": "US",
+  "currency": "USD",
+  "markup": 2.5,
+  "minRating": 4.5
+}
