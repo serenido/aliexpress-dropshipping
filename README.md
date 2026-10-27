@@ -164,6 +164,7 @@ Download as JSON, CSV or Excel, or connect to Make, Zapier or n8n.
 - [Football xG Scraper](https://github.com/serenido/football-xg-scraper): Understat xG tables, matches, shots, players and lineups.
 - [Weibo Hot Search Scraper](https://github.com/serenido/weibo-hot-search): the live 微博热搜 list, changes since your last run, top posts per topic.
 - [WeChat Official Account Scraper](https://github.com/serenido/wechat-official-account-scraper): 公众号 articles by keyword or link, with full text, account, author and date.
+- [RedNote Trending Scraper](https://github.com/serenido/rednote-trending-scraper): 小红书 trending notes with full text, images, video, likes, saves and comments.
 
 ## Support
 
